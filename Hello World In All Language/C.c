@@ -5,5 +5,6 @@ int main()
 {
     printf("Hello World <3");
     printf("Happy coding");
-    return EXIT_SUCCESS;
+      printf("Hacktoberfest2023");
+    return 0;
 }
